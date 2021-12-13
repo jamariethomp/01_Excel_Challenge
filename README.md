@@ -14,7 +14,7 @@ The above graphic demonstrates the relative success of theater-related fundraisi
 ### Analysis of Outcomes Based on Goals
 
 To determine the outcome of Kickstarter campaigns relative to their initial fundraising goals, we examine only theater-based projects categorized as “plays,” which makes our dataset more finite than the previous one. In our analysis of outcomes based on goals, we find that each goal range carries with it a specific rate of success:
-https://github.com/jamariethomp/ExcelChallenge/blob/f98551397df79a9a0167c6a29bfc84275232ba37/Outcomes_vs_Goals.png
+![Outcomes_vs_Goals.png](https://github.com/jamariethomp/ExcelChallenge/blob/f98551397df79a9a0167c6a29bfc84275232ba37/Outcomes_vs_Goals.png)
 The data and graphic suggest that the most successful play-based Kickstarter campaigns have fundraising goals of $1,000 or less, with a success rate of nearly 80%. The overall trend suggests that the larger the fundraising goal, the less successful the fundraising campaign (except for the $35,000 to $44,999 goal range, which displays a success rate of nearly 70%). Overall, content creators of plays would likely have more success raising money for their campaigns if they can manage to set minimum amounts to their budgets and goals.
 
 ### Challenges and Difficulties Encountered
