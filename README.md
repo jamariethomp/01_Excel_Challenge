@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-### Kickstarter is an online crowdfunding platform known for supporting creative projects and goals; in this case, the relative fundraising success of play-related fundraising campaigns is being examined. To support content creators working on plays, it would be helpful to know 1) the success of funding outcomes based on a fundraiser’s launch date and 2) the success of funding outcomes relative to a fundraiser’s goals. This analysis seeks to draw conclusions around both questions.
+Kickstarter is an online crowdfunding platform known for supporting creative projects and goals; in this case, the relative fundraising success of play-related fundraising campaigns is being examined. To support content creators working on plays, it would be helpful to know 1) the success of funding outcomes based on a fundraiser’s launch date and 2) the success of funding outcomes relative to a fundraiser’s goals. This analysis seeks to draw conclusions around both questions.
 
 ## Analysis and Challenges
 
