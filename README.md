@@ -2,14 +2,14 @@
 
 ## Project Overview
 
-### Kickstarter is an online crowdfunding platform known for supporting creative projects and goals; in this case, the relative fundraising success of theater-related fundraising campaigns is being examined. To support content creators in theater, it would be helpful to know 1) the success of funding outcomes based on a fundraiser’s launch date and 2) the success of funding outcomes relative to a fundraiser’s goals. This analysis seeks to draw conclusions around both questions.
+### Kickstarter is an online crowdfunding platform known for supporting creative projects and goals; in this case, the relative fundraising success of play-related fundraising campaigns is being examined. To support content creators working on plays, it would be helpful to know 1) the success of funding outcomes based on a fundraiser’s launch date and 2) the success of funding outcomes relative to a fundraiser’s goals. This analysis seeks to draw conclusions around both questions.
 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
 
 From the dataset in question, 1,369 theater-related Kickstarter campaigns are being examined over a span of nine years (2009-2017). Each individual campaign is categorized as “successful,” “failed” or “canceled.” For our analysis, we seek to learn the outcome of campaigns over the course of a typical year:
-https://github.com/jamariethomp/ExcelChallenge/blob/186e6e1f96636a5180dd463f91ca362fba1f487a/Theater_Outcomes_vs_Launch.png
+Theater_Outcomes_vs_Launch.png
 The above graphic demonstrates the relative success of theater-related fundraising campaigns over the course of nine years, broken down by month. Evidently, theater-based Kickstarter campaigns start to be more successful starting in the month of April, peak in May, and steadily decline for the remainder of the year. Based on this interpretation, May is the ideal month for theater-based content creators to initiate a crowdfunding campaign on the Kickstarter platform.
 ### Analysis of Outcomes Based on Goals
 
